@@ -1,0 +1,8 @@
+# binaries
+**/*.exe
+**/*.o
+
+# debug iles
+**/tags
+**/peda*
+**/.gdb_history
